@@ -1,1 +1,0 @@
-# SAXS_SIMULATOR
